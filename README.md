@@ -12,5 +12,5 @@ A Web Based Dashboard app, for maintaining organisational records, using MongoDB
 
 
 ## *MongoDB Database*
-<img src='Screenshot (614).png'>
-<img src='Screenshot (615).png'>
+<img src='m1.png'>
+<img src='m2.png'>
