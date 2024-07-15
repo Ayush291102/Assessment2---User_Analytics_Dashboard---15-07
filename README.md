@@ -1,1 +1,14 @@
-# Assessment2---User_Analytics_Dashboard---15-07
+# User Analytics Dashboard
+
+A Web Based Dashboard app, for maintaining organisational records, deployed on Streamlit
+
+
+## *Dashboard*
+<img src='home.png'>
+
+
+## *Result:*
+<img src='predict.png'>
+
+## *SQLite Database:*
+<img src='Screenshot (549).png'>
